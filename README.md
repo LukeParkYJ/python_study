@@ -14,9 +14,9 @@
 | 4/8 - 4/12 <br> (week 6) | ~ ch.06 |
 
 * 달성 여부
-  * week 1 - [ ] 
-  * week 2 - [ ] 
-  * week 3 - [ ] 
-  * week 4 - [ ] 
-  * week 5 - [ ] 
-  * week 6 - [ ] 
+  * - [ ] week 1
+  * - [ ] week 2 
+  * - [ ] week 3
+  * - [ ] week 4
+  * - [ ] week 5
+  * - [ ] week 6
